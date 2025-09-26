@@ -1,6 +1,6 @@
 # NewsFlow AI - Intelligent News Analysis Platform  
 
-[![Alt text](https://indigo-nana-81.tiiny.site)](https://youtu.be/S_lvUw1fzWA) 
+[![▶️ Watch the Demo Video]([https://indigo-nana-81.tiiny.site](https://cdn.pixabay.com/photo/2021/01/19/14/18/youtube-5931353_1280.jpg))](https://youtu.be/S_lvUw1fzWA) 
 
 A production-ready AI platform that provides intelligent news analysis using advanced RAG (Retrieval-Augmented Generation) technology. The system ingests 100,000+ articles from various RSS feeds worldwide, creates embeddings, and stores them in a vector database for semantic search and contextual analysis.
 
